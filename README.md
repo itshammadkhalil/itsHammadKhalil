@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-* 🚀 **I’m currently working on:** Scaling **NovaStack**, building custom enterprise web apps, and deploying autonomous AI agent networks for businesses[cite: 1].
-* 🤝 **I’m looking to collaborate on:** Enterprise-level n8n workflows, custom Vapi implementations, and intelligent calling agent architectures[cite: 1].
-* 🤝 **I’m looking for help with:** Expanding my network with other high-end Devs, AI Architects, and tech founders[cite: 1].
-* 🌱 **I’m currently learning:** Fine-tuning LLMs with DeepSeek, Advanced System Design, and Enterprise RAG solutions[cite: 1].
-* 💬 **Ask me about:** React/Next.js, Tailwind CSS, n8n Automation, Vapi AI Agents, Python, Shopify, and Web Architecture[cite: 1].
-* ⚡ **Fun fact:** I automate my daily tasks using n8n while others are still busy doing them manually[cite: 1]!
+* 🚀 **I’m currently working on:** Scaling **NovaStack**, building custom enterprise web apps, and deploying autonomous AI agent networks for businesses.
+* 🤝 **I’m looking to collaborate on:** Enterprise-level n8n workflows, custom Vapi implementations, and intelligent calling agent architectures.
+* 🤝 **I’m looking for help with:** Expanding my network with other high-end Devs, AI Architects, and tech founders.
+* 🌱 **I’m currently learning:** Fine-tuning LLMs with DeepSeek, Advanced System Design, and Enterprise RAG solutions.
+* 💬 **Ask me about:** React/Next.js, Tailwind CSS, n8n Automation, Vapi AI Agents, Python, Shopify, and Web Architecture.
+* ⚡ **Fun fact:** I automate my daily tasks using n8n while others are still busy doing them manually!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61580669180801) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hammadkhalil.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hammad-khalil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hello@hammadkhalil.me) 
