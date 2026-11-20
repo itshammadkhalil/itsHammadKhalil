@@ -1,9 +1,9 @@
-![Intro](./assets/hero.svg?v=3)
-![About](./assets/about-life.svg?v=3)
-![Stack](./assets/stack.svg?v=3)
-![ID](./assets/id-dashboard.svg?v=3)
-![Projects](./assets/projects.svg?v=3)
-![Connect](./assets/connect.svg?v=3)
+![Intro](./assets/hero.svg?v=4)
+![About](./assets/about-life.svg?v=4)
+![Stack](./assets/stack.svg?v=4)
+![ID](./assets/id-dashboard.svg?v=4)
+![Projects](./assets/projects.svg?v=4)
+![Connect](./assets/connect.svg?v=4)
 
 ## 🚀 Projects
 
